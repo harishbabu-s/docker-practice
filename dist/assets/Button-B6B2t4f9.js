@@ -1,0 +1,1 @@
+import{j as e}from"./index-DaRGSqwa.js";const d=({text:o,type:t,disabled:n,onClick:r,style:s})=>e.jsx("button",{type:t,onClick:r,disabled:n,className:` ${s} my-1 px-4 py-2 bg-indigo-400 rounded-md hover:bg-indigo-300`,children:o});export{d as B};
